@@ -40,3 +40,4 @@ streamlit run app.py
 - Educational data analysis
 - Internship-ready portfolio project
 - Foundation for predictive modeling
+![Dashboard Screenshot]"C:\Users\soumy\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 234732.png"
