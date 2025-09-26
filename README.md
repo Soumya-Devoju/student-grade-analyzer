@@ -1,4 +1,5 @@
 Student Grade Analyzer
+
 🔍 Overview
 The Student Grade Analyzer is a Python-based data analysis dashboard built with Streamlit. It helps visualize and interpret student performance based on study time, course load, and final marks. This project demonstrates practical use of Pandas, Matplotlib, and interactive filtering to deliver insights in real time.
 
@@ -40,4 +41,5 @@ streamlit run app.py
 - Educational data analysis
 - Internship-ready portfolio project
 - Foundation for predictive modeling
-![Dashboard Screenshot]"(Screenshot 2025-09-26 234732.png)"
+
+
